@@ -53,28 +53,39 @@ The dashboard contains 6 interactive pages:
 ### 🏠 1. Home
 
 Provides an overall introduction to the Uber analytics dashboard and easy navigation to different sections of the report.
-<img width="798" height="532" alt="download (1)" src="https://github.com/user-attachments/assets/f81eeeae-d703-4994-994a-bcbc3e25c582" />
+4a-bcbc3e25c582" />
+![Uploading image.png…]()
 
 
 ### 📊 2. Dashboard Overview
 
 Shows the overall performance of Uber bookings using key KPIs such as total bookings, completed bookings, revenue, ride distance, ratings and booking trends.
+<img width="1212" height="656" alt="image" src="https://github.com/user-attachments/assets/10b913b2-08e5-4018-b162-c8b3d2ace89d" />
+
 
 ### 🚗 3. Vehicle Analytics
 
 Analyzes performance and revenue across different vehicle types such as Auto, Bike, Go Mini, Go Sedan, Premier Sedan and Uber XL.
+<img width="1216" height="670" alt="image" src="https://github.com/user-attachments/assets/7ed17f4d-5b28-4771-9edf-1e252c810cfe" />
+
 
 ### 💰 4. Revenue Insights
 
 Provides detailed revenue analysis including monthly revenue trends, revenue by vehicle type, payment methods and completed booking revenue.
+<img width="1216" height="670" alt="image" src="https://github.com/user-attachments/assets/bdca6443-073e-462f-9f7e-cddaeb405f61" />
+
 
 ### 👤 5. Customer Insights
 
 Analyzes customer behavior using customer count, payment methods, average revenue, ride distance and customer-related booking information.
+<img width="1213" height="683" alt="image" src="https://github.com/user-attachments/assets/0bbe1910-8367-401f-b5c5-9cb46d5674b4" />
+
 
 ### 📋 6. Booking Analysis
 
 Provides detailed analysis of booking statuses, including completed, cancelled and incomplete bookings, along with booking trends and ride-related metrics.
+<img width="1212" height="656" alt="image" src="https://github.com/user-attachments/assets/2dceff6c-4fd2-4d61-8e62-ec1948ed0381" />
+
 
 
 ## 🎯 Project Objective
