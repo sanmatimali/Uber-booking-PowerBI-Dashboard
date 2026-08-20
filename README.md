@@ -54,7 +54,8 @@ The dashboard contains 6 interactive pages:
 
 Provides an overall introduction to the Uber analytics dashboard and easy navigation to different sections of the report.
 4a-bcbc3e25c582" />
-![Uploading image.png…]()
+<img width="1215" height="656" alt="image" src="https://github.com/user-attachments/assets/0f24bbf6-2252-43a6-bf00-1650e02274be" />
+
 
 
 ### 📊 2. Dashboard Overview
