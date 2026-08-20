@@ -53,6 +53,8 @@ The dashboard contains 6 interactive pages:
 ### 🏠 1. Home
 
 Provides an overall introduction to the Uber analytics dashboard and easy navigation to different sections of the report.
+<img width="798" height="532" alt="download (1)" src="https://github.com/user-attachments/assets/f81eeeae-d703-4994-994a-bcbc3e25c582" />
+
 
 ### 📊 2. Dashboard Overview
 
